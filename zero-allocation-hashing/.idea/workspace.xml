@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88f045c7-1cf0-486b-912d-6ea89c75b614" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="zero-allocation-hashing:main" type="ce49adb6:ExternalSystemViewDefaultContributor$ModuleDependencyDataExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="zero-allocation-hashing" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="194">
+      <file leaf-file-name="InstrumentationTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/InstrumentationTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ASTParserClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="154" column="5" lean-forward="false" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateInstrumStmt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateInstrumStmt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionParametersDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Dao/ExpressionParametersDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateBackup.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateBackup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="60" column="46" lean-forward="false" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TraceFile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TraceFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="27" column="62" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityAndFarmHash_1_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CityAndFarmHash_1_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fetch64</find>
+      <find>Token</find>
+      <find>Tok</find>
+      <find>WHIL</find>
+      <find>Syst</find>
+      <find>107</find>
+      <find>v1 = Long.rotateLeft(v1, 31);</find>
+      <find>v1 *= P1;</find>
+      <find>hash = hash * P1 + P4;</find>
+      <find>else</find>
+      <find>replaceexp</find>
+      <find>expre</find>
+      <find>StringBuil</find>
+      <find>while</find>
+      <find>WHILE</find>
+      <find>fragment</find>
+      <find>Binding Activated</find>
+      <find>varia</find>
+      <find>Binding</find>
+      <find>Syste</find>
+      <find>es</find>
+      <find>System.ou</find>
+      <find>UnsafeAc</find>
+      <find>Instrumen</find>
+      <find>instr</find>
+      <find>instru</find>
+      <find>instrum</find>
+      <find>ins</find>
+      <find>System.out</find>
+      <find>equinox.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>expStmt</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\OOLE\project-1_SBT\zero-allocation-hashing\src\main\resources</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Savio Raj\.gradle\wrapper\dists\gradle-3.5-rc-2-bin\7ktl4k9rdug30mawecgppf5ms\gradle-3.5-rc-2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.5" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="zero-allocation-hashing" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="zero-allocation-hashing" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'zero-allocation-hashing'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'zero-allocation-hashing'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'zero-allocation-hashing'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'zero-allocation-hashing'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4519389133711" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2480802039" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="zero-allocation-hashing" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-base-services-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-cli-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-docs-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-installation-beacon-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-jvm-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-launcher-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-logging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-messaging-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-core-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-model-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-open-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-process-services-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-resources-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-runtime-api-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-script-kotlin-0.8.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-tooling-api-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-ui-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-version-info-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/gradle-wrapper-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/groovy-all-2.4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-announce-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-antlr-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-cache-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-comparison-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-build-init-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-code-quality-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-composite-builds-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-dependency-management-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-diagnostics-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ear-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ide-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-ivy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jacoco-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-javascript-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-jetty-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-groovy-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-java-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-language-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-maven-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-osgi-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-platform-play-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-development-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugin-use-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-plugins-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-publish-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-reporting-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-http-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-s3-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-resources-sftp-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-scala-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-signing-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-test-kit-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-base-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-jvm-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-testing-native-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-tooling-api-builders-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/gradle-workers-3.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.5-rc-2-bin/7ktl4k9rdug30mawecgppf5ms/gradle-3.5-rc-2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ASTParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ModernHotSpotStringHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ASTVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ASTNodeVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ReadOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/Symbol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreateBackup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/ASTParserClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/InstrumentationTemplate_old.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/HotSpotPrior7u6StringHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InstrumentationTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ASTParserClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ExpressionParametersDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Dao/ExpressionParametersDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/Access.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/HashValCompareTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/XxHashCollisionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/CreateBackup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/InstrumentationTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/UnsafeAccess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/MurmurHash_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/LongHashFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Dao/MapPair.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/City64_1_1_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/MurmurHash3Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/LongHashFunctionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/FarmHashTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/City64_1_1_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/FarmHashTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/XxHash.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateInstrumStmt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateBackup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eclipse/ast/parser/InstrumentationTemplate.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/net/openhft/hashing/CityAndFarmHash_1_1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-293" />
+    <option name="y" value="199" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="Dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hashing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zero-allocation-hashing" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="hashing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zero-allocation-hashing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zero-Allocation-Hashing-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.13867188" />
+    <property name="project.structure.side.proportion" value="0.27931035" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../lib" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/OOLE/project-1_SBT/zero-allocation-hashing/src/main/java/net/openhft/hashing/Access_old.java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="net.openhft.hashing" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\OOLE\project-1_SBT\zero-allocation-hashing\src\main\java\net\openhft\hashing" />
+      <recent name="G:\OOLE\project-1_SBT\zero-allocation-hashing\src" />
+      <recent name="G:\OOLE\project-1_SBT\zero-allocation-hashing\src\main\java\eclipse\ast\parser" />
+      <recent name="'" />
+      <recent name="G:\OOLE\project-1_SBT\zero-allocation-hashing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\OOLE\project-1_SBT\zero-allocation-hashing\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Groovy.build (3)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="build (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="zero-allocation-hashing" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="build (2)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="zero-allocation-hashing" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="build (3)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="zero-allocation-hashing" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="zero-allocation-hashing" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="build test" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+    </configuration>
+    <configuration name="zero-allocation-hashing [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.zero-allocation-hashing [build]" />
+      <item index="1" class="java.lang.String" itemvalue="Gradle.zero-allocation-hashing [clean]" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy.build" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy.build (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy.build (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Groovy.build (3)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.build (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.zero-allocation-hashing [build]" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy.build (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.zero-allocation-hashing [clean]" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy.build (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1507517943735" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88f045c7-1cf0-486b-912d-6ea89c75b614" name="Default" comment="" />
+      <created>1505935625536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505935625536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="net_openhft_hashing_in_zero-allocation-hashing_test - 2017.10.08 at 20h 52m 31s.xml">
+      <configuration name="net.openhft.hashing in zero-allocation-hashing_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[build] - 2017.10.08 at 21h 39m 28s.xml">
+      <configuration name="zero-allocation-hashing [build]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[build] - 2017.10.08 at 21h 42m 17s.xml">
+      <configuration name="zero-allocation-hashing [build]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[build] - 2017.10.08 at 21h 44m 35s.xml">
+      <configuration name="zero-allocation-hashing [build]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 17h 11m 21s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 17h 13m 54s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 17h 14m 10s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 17h 18m 49s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 21h 14m 21s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="zero-allocation-hashing_[test] - 2017.10.08 at 21h 16m 34s.xml">
+      <configuration name="zero-allocation-hashing [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JDT AST" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29885057" sideWeight="0.5030257" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29885057" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JDT AST" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Execute" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29885057" sideWeight="0.5030257" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39901477" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29885057" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>193</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>179</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>178</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/net/URLClassLoader.java</url>
+          <line>362</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/net/URLClassLoader.java</url>
+          <line>363</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/net/URLClassLoader.java</url>
+          <line>359</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateBackup.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="69" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../lib/org.eclipse.jdt.core-3.10.0.jar!/org/eclipse/jdt/core/dom/MethodDeclaration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="273" column="81" lean-forward="false" selection-start-line="273" selection-start-column="81" selection-end-line="273" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/InstrumentationTemplate_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/LongHashFunction_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CityAndFarmHash_1_1_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/Primitives.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/StringHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/UnknownJvmStringHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/ByteBufferAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/HotSpotPrior7u6StringHash_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/ModernHotSpotStringHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/HotSpotPrior7u6StringHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="35" column="19" lean-forward="false" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/XxHash_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CharSequenceAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Access.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/HotSpotPrior7u6StringHash.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/UnknownJvmStringHash_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CreateBackup_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/Access_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/old_javaAccess_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/old_java/ByteBufferAccess_old.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_11/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="89" column="26" lean-forward="false" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/old_java/LongHashFunction_old.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CreateBackup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/InstrumentationTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="32" column="9" lean-forward="false" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/MurmurHash_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="161" column="104" lean-forward="false" selection-start-line="161" selection-start-column="72" selection-end-line="161" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/City64_1_1_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="59" column="8" lean-forward="false" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1507509506631" expanded="false" signature="1118:1128" ph="&lt;~&gt;" />
+            <marker date="1507509506631" expanded="false" signature="1340:1351" ph=" { " />
+            <marker date="1507509506631" expanded="false" signature="1424:1430" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/FarmHashTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="58" column="47" lean-forward="false" selection-start-line="58" selection-start-column="47" selection-end-line="58" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/HashValCompareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/LongHashFunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1488159334000" expanded="false" signature="999:1010" ph=" { " />
+            <marker date="1488159334000" expanded="false" signature="1077:1083" ph=" }" />
+            <marker date="1488159334000" expanded="true" signature="1155:1557" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="1630:1711" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="1781:2123" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="2217:2674" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="2743:3227" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="3365:5231" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="5326:5917" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="6014:7105" ph="{...}" />
+            <marker date="1488159334000" expanded="true" signature="7195:7402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/XxHashArrayCollisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/XxHashCollisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/xxHashSeqValTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/XxHashTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/MurmurHash3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/openhft/hashing/net/openhft/hashing/OriginalFarmHashTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/XxHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="105" column="84" lean-forward="false" selection-start-line="105" selection-start-column="58" selection-end-line="105" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/Access.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="50" column="73" lean-forward="false" selection-start-line="50" selection-start-column="73" selection-end-line="50" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Dao/MapPair.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/UnsafeAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="43" column="42" lean-forward="false" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateInstrumStmt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/CreateBackup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="60" column="46" lean-forward="false" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/Dao/ExpressionParametersDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TraceFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/ASTParserClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="154" column="5" lean-forward="false" selection-start-line="154" selection-start-column="5" selection-end-line="154" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eclipse/ast/parser/InstrumentationTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="27" column="62" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/LongHashFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="314" column="93" lean-forward="false" selection-start-line="314" selection-start-column="93" selection-end-line="314" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/openhft/hashing/CityAndFarmHash_1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>zero-allocation-hashing_main|zero-allocation-hashing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18834081" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27931035" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
