@@ -53,3 +53,8 @@ New java files added:
 1. HashValCompareTest.java :- To test whether the hash values obtained using various hashing methods using the same keys is unique and different
 2. XxHashArrayCollisionTest.java :- To test whether the hash values of the elements in the two arrays (hashes of hexadecimal numbers multiplied by different numbers ) are same or different
 3. xxHashSeqValTest.java :- To test whether the hash value is not null when the input string is empty.
+
+
+Reference:
+
+https://github.com/OpenHFT/Zero-Allocation-Hashing
